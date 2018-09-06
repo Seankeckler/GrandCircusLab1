@@ -1,0 +1,7 @@
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\bin\Debug\GrandCircusLab1Part1.exe.config
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\bin\Debug\GrandCircusLab1Part1.exe
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\bin\Debug\GrandCircusLab1Part1.pdb
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\obj\Debug\GrandCircusLab1Part1.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\obj\Debug\GrandCircusLab1Part1.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\obj\Debug\GrandCircusLab1Part1.exe
+C:\Users\Sean\source\repos\GrandCircusLab1Part1\GrandCircusLab1Part1\obj\Debug\GrandCircusLab1Part1.pdb
